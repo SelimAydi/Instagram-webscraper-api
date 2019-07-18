@@ -1,1 +1,1 @@
-## Instagram-web-api
+## Instagram-webscraper-api
